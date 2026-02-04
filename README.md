@@ -1,2 +1,2 @@
-Hallo Ahmad Amru Izzuddin,
-Ini adalah Repository pertamaku dibuat dari PC lokal
+Ini adalah repository pertamaku di Github.
+Namaku Amru. Salam kenal.
